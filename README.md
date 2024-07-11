@@ -8,9 +8,11 @@ You can install Intel Windows on M1, M2 and M3!
 Now you will do this command:
 
 ```tweaker --install lukintosh-tweaks for arm-aarch64```
-Now you will create in the directory called ```build```:
-
+And you have to enter in the ```bootcamp```directory on the cloned repo
+Now you will create in the ```bootcamp``` directory, a directory called ```build```:
+You can use the ```cd /youruser/bootcamp/```
 ```mkdir build```
+Use the ```ls```command to list files
 
 and enter in it:
 
@@ -24,4 +26,5 @@ Now you will execute the app:
 ```./lukintoshtools```
 
 And finally, in the app you need to download Apple Bootcamp for Apple Silicon:
-Enjoy! ;D
+Enjoy! ;D 
+NOTE: This is esclusive for the macOS operating system. Maybe it'll be coming soon for Linux!
