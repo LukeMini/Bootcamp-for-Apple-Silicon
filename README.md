@@ -7,7 +7,7 @@ You can install Intel Windows on M1, M2 and M3!
 ```brew install lukintosh-tweaks```
 Now you will do this command:
 
-```lukintoshtweaks --install bootcamp for arm-aarch64```
+```lukintoshtweaks --install tweaker for arm-aarch64```
 Now you will create in the directory called ```build```:
 
 ```mkdir build```
