@@ -1,7 +1,7 @@
 # Bootcamp-for-Apple-Silicon
 You can install Intel Windows on M1, M2 and M3!
  To start, you need to clone this repo:
- ```git clone 
+ ```git clone https://github.com/LukeMini/Bootcamp-for-Apple-Silicon/```
  Next, You will install Lukintosh Tweaks with brew:
 
 ```brew install lukintosh-tweaks```
