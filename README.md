@@ -17,10 +17,10 @@ Use the ```ls```command to list files
 and enter in it:
 
 ```cd build```
-You need to install Lukintosh Tools and CMake for this to work :
+You need to install Lukintosh Tools for this to work :
 
-```brew install cmake```
 ```brew install lukintosh-tools```
+
 Now you will execute the app:
 
 ```./lukintoshtools```
