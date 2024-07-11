@@ -4,10 +4,10 @@ You can install Intel Windows on M1, M2 and M3!
  ```git clone https://github.com/LukeMini/Bootcamp-for-Apple-Silicon/```
  Next, You will install Lukintosh Tweaks with brew:
 
-```brew install lukintosh-tweaks```
+```brew install tweaker```
 Now you will do this command:
 
-```lukintoshtweaks --install tweaker for arm-aarch64```
+```tweaker --install lukintosh-tweaks for arm-aarch64```
 Now you will create in the directory called ```build```:
 
 ```mkdir build```
