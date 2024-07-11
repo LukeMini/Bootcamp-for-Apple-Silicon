@@ -27,4 +27,4 @@ Now you will execute the app:
 
 And finally, in the app you need to download Apple Bootcamp for Apple Silicon:
 Enjoy! ;D 
-NOTE: This is esclusive for the macOS operating system. Maybe it'll be coming soon for Linux!
+NOTE: This is exclusive for the macOS operating system. Maybe it'll be coming soon for Linux!
